@@ -1,0 +1,19 @@
+{
+    "name": "servo",
+    "description": "A micro-servo library",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "servo.ts",
+        "ns.ts",
+        "targetoverrides.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "7.1.13",
+        "pxt": "11.2.9"
+    },
+    "icon": "./static/libs/servo.png"
+}
